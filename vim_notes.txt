@@ -1,0 +1,8 @@
+
+# NERDTree
+
+* Switching cursor Ctrl+w
+* Press 'p' comes to the top
+* Create file or directory press 'm'
+* Create new tab select file and press 't'
+* Switch the tab 'gt'
