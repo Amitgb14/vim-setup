@@ -3,7 +3,7 @@
 
 
 ### Setup VIM
-
+    $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
     $ git clone https://github.com/Amitgb14/viminfo.git
     $ mv viminfo/vimrc ~/.vimrc
     
